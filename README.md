@@ -8,6 +8,10 @@
 
 ## My work
 <a href="https://ljolliet.github.io" target="_blank"><img alt="Potfolio" src="https://img.shields.io/badge/portfolio-%234C566A.svg?&style=for-the-badge&logo=skyliner&logoColor=white&color=e25c5c" /></a>
+### Tools
+<img alt="Angular" src="https://img.shields.io/badge/angular-%230077B5.svg?&style=for-the-badge&logo=angular&logoColor=white&color=b52e31" />
+<img alt="VueJs" src="https://img.shields.io/badge/vue.js-%230077B5.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=42b883" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%230077B5.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=7952b3" />
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/louis-jolliet" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
