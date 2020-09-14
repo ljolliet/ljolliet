@@ -2,17 +2,12 @@
 
 Readme in progress 🛫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Hi ! I am Louis I'm living in Bordeaux, France. I'm finishing a Master of Computer Science here at University.
 
 ## My work
 <a href="https://ljolliet.github.io" target="_blank"><img alt="Potfolio" src="https://img.shields.io/badge/portfolio-%234C566A.svg?&style=for-the-badge&logo=skyliner&logoColor=white&color=e25c5c" /></a>
 
 ### Languages
-#### Web
 <span>
     <img alt="JS" src="https://img.shields.io/badge/javascript-%230077B5.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e" />
     <img alt="TS" src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=0079cb" />
@@ -20,7 +15,7 @@ Readme in progress 🛫
     <img alt="CSS" src="https://img.shields.io/badge/css-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white&color=1a92d4" />
 </span>
 
-### Tools
+### Frameworks
 <span>
   <img alt="Angular" src="https://img.shields.io/badge/angular-%230077B5.svg?&style=for-the-badge&logo=angular&logoColor=white&color=b52e31" />
   <img alt="VueJs" src="https://img.shields.io/badge/vue.js-%230077B5.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=42b883" />
