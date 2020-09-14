@@ -26,7 +26,7 @@ Hi ! I am Louis I'm living in Bordeaux, France. I'm finishing a Master of Comput
 
 ![bio](https://github-readme-stats.vercel.app/api?username=ljolliet&show_icons=true&hide_title=true&include_all_commits=true)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ljolliet&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ljolliet&layout=compact&hide=C%23)
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/louis-jolliet" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
