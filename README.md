@@ -1,28 +1,29 @@
-### Hi there 👋
+### Hi ! I am Louis
 
-Readme in progress 🛫
+I'm a developer studying at Université de Bordeaux 🇫🇷.   
+Co-founder of [eznba.co](https://eznba.co) (still under beta testing)
 
-Hi ! I am Louis I'm living in Bordeaux, France. I'm finishing a Master of Computer Science here at University.
 
 ## My work
 <a href="https://ljolliet.github.io" target="_blank"><img alt="Potfolio" src="https://img.shields.io/badge/portfolio-%234C566A.svg?&style=for-the-badge&logo=skyliner&logoColor=white&color=e25c5c" /></a>
+<a href="https://eznba.co" target="_blank"><img alt="eznba" src="https://img.shields.io/badge/eznba-%234C566A.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAPFBMVEUAAAACCxEyNDaVlpeam5yio6T///////////////////////////////////////////////////////8Mle5nAAAAE3RSTlMAAAAAAAAKM1JcZnCjs7TM1uDr7qmOHgAAAFFJREFUeNpkx7UBACAMADDcofb/rehItqiPDhVLwRrMG4mUIkL3wbXX5sJuzfE15rqL3fMp+4G7JTk4BZfK3zVkxZhGISxiZsN0BsKRjBjuBwCgZwZl+HtYxwAAAABJRU5ErkJggg==&logoColor=white&color=3f51b5" /></a>
 
 ### Languages
 <span>
-    <img alt="JS" src="https://img.shields.io/badge/javascript-%230077B5.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e" />
     <img alt="TS" src="https://img.shields.io/badge/typescript-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=0079cb" />
+    <img alt="JS" src="https://img.shields.io/badge/javascript-%230077B5.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e" />
     <img alt="HTML" src="https://img.shields.io/badge/html-%230077B5.svg?&style=for-the-badge&logo=html5&logoColor=white&color=f06126" />
     <img alt="CSS" src="https://img.shields.io/badge/css-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white&color=1a92d4" />
 </span>
 
 ### Frameworks
 <span>
+  <img alt="Spring" src="https://img.shields.io/badge/spring_boot-%230077B5.svg?&style=for-the-badge&logo=spring&logoColor=white&color=6eb33f" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-%230077B5.svg?&style=for-the-badge&logo=angular&logoColor=white&color=b52e31" />
-  <img alt="VueJs" src="https://img.shields.io/badge/vue.js-%230077B5.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=42b883" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%230077B5.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=7952b3" />
 </span>
 
-### Stats
+### Some Stats
 
 ![bio](https://github-readme-stats.vercel.app/api?username=ljolliet&show_icons=true&hide_title=true&include_all_commits=true)
 
